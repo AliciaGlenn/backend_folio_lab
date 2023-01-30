@@ -1,15 +1,15 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Sneakerhead Project",
+      "live": "https://project-2-ss0h.onrender.com/",
+      "git": "https://github.com/AliciaGlenn/Sneakerhead_Project",
+      "image": "/Users/aliciaglenn1/Desktop/GA_Lessons/portfolio_lab/backend/img/sneakerhead.jpg"
     },
-    
+
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Cheese App Project",
+      "live": "https://unique-bunny-bc8725.netlify.app/",
+      "git": "https://github.com/AliciaGlenn/CheeseApp_Frontend",
+      "image": "/Users/aliciaglenn1/Desktop/GA_Lessons/portfolio_lab/backend/img/Cheese.jpg"
     }
   ]
